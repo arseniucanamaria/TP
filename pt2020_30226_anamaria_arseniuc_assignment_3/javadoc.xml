@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="public" author="true" classpath="mysql-connector-java-8.0.16.jar;itextpdf-5.5.9.jar" destdir="doc" doctitle="javadoc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="Presentation,Model,Reflection,DataAccess,BusinessLogic" source="12" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
