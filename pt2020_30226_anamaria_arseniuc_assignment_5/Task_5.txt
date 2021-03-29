@@ -1,0 +1,9 @@
+Breakfast-> Duration{ DAYS=0; HOURS=2; MINUTES=58; SECONDS=8 }
+Grooming-> Duration{ DAYS=0; HOURS=2; MINUTES=40; SECONDS=42 }
+Toileting-> Duration{ DAYS=0; HOURS=2; MINUTES=20; SECONDS=34 }
+Sleeping-> Duration{ DAYS=5; HOURS=11; MINUTES=3; SECONDS=31 }
+Leaving-> Duration{ DAYS=1; HOURS=3; MINUTES=44; SECONDS=44 }
+Spare_Time/TV-> Duration{ DAYS=5; HOURS=22; MINUTES=28; SECONDS=55 }
+Snack-> Duration{ DAYS=0; HOURS=0; MINUTES=6; SECONDS=1 }
+Showering-> Duration{ DAYS=0; HOURS=1; MINUTES=34; SECONDS=9 }
+Lunch-> Duration{ DAYS=0; HOURS=5; MINUTES=13; SECONDS=31 }
